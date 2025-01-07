@@ -1,0 +1,25 @@
+body {
+  background-color: #2a2c2f;
+}
+
+.page {
+  width: 100%;
+  font-family: Inter;
+  color: #fff;
+  margin: auto;
+  margin: 34px 148px;
+  row-gap: 92px;
+}
+
+@media screen and (max-width: 1024px) {
+  .page {
+    margin: 30px 24px;
+    row-gap: 92px;
+  }
+}
+@media screen and (max-width: 544px) {
+  .page {
+    margin: 20px 16px;
+    row-gap: 92px;
+  }
+}
