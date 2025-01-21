@@ -64,7 +64,7 @@
   justify-content: flex-end;
 }
 
-.places__website_heading {
+.places__website-heading {
   max-width: 86px;
   max-height: 15px;
   font-size: 12px;
@@ -72,7 +72,7 @@
   margin: 0;
 }
 
-.places__website_artist {
+.places__website-artist {
   line-height: 18px;
   line-height: 1.2;
   margin: 0;
@@ -113,7 +113,7 @@
     justify-content: flex-end;
   }
 
-  .places__website_heading {
+  .places__website-heading {
     max-width: 86px;
     max-height: 15px;
     font-size: 12px;
@@ -121,7 +121,7 @@
     margin: 0;
   }
 
-  .places__website_artist {
+  .places__website-artist {
     max-width: 352px;
     font-size: 16px;
     line-height: 1.2;
@@ -183,14 +183,14 @@
     margin: 0;
   }
 
-  .places__website_heading {
+  .places__website-heading {
     font-size: 12px;
     color: #aaa;
     max-width: 288px;
     margin: 0;
   }
 
-  .places__website_artist {
+  .places__website-artist {
     line-height: 18px;
     line-height: 1.2;
     margin: 0;
