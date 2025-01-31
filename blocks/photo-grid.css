@@ -5,7 +5,6 @@
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
   grid-gap: 16px 16px;
-  /*margin: 26px auto 92px; */
   margin: 118px auto 0;
   box-sizing: border-box;
 }
@@ -41,8 +40,8 @@
         grid-template-columns: 1fr;
         grid-template-rows:  repeat(8, 1fr);
         grid-gap: 12px;
-        margin: 0 16px 64px;
-    }
+        margin: 0 auto;
+        }
     .photo-grid__image {
       max-width: 335px;
       max-height: 264px;
